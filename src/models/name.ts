@@ -1,0 +1,6 @@
+export const db = "main-answerly"
+export const answerCollection = "answers"
+export const questionCollection = "questions"
+export const commentCollection = "comments"
+export const questionAttachementCollection = "question-attachments"
+export const voteCollection = "votes"
